@@ -15,13 +15,12 @@ Programacion1_u3_apache/
 ├── index.html # Página principal del sitio
 ├── estilos.css # Hojas de estilo (CSS)
 ├── scripts/ # Scripts o lógica adicional (si aplica)
-│ └── script.js
+│   └── script.js
 ├── img/ # Carpeta de imágenes
-│ └── logo.png
+│   └── logo.png
 ├── php/ # Archivos PHP del proyecto (formularios, lógica del servidor, etc.)
-│ └── formulario.php
+│   └── formulario.php
 └── README.md # Archivo de documentación del proyecto
-
 
 > 📝 La estructura puede variar según la versión actual del trabajo, pero sigue el patrón base de un sitio web alojado en Apache.
 
