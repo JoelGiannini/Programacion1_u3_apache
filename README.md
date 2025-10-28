@@ -1,27 +1,61 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/)
+# 🌐 Proyecto Web — Programación 1 (UNL)
 
-[1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/) is a one column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Este proyecto fue desarrollado como **trabajo práctico para la materia Programación 1** de la carrera **Tecnicatura en Software Libre** de la **Universidad Nacional del Litoral (UNL)**.
 
-## Getting Started
+El objetivo del trabajo es crear una página web estática utilizando **HTML, CSS y PHP**, y alojarla en un servidor Apache.  
+El proyecto se publica también en **GitHub Pages** como versión visual para seguimiento y revisión.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/1-col-portfolio/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git`
-* Fork the repo
+---
 
-## Bugs and Issues
+## 🏗️ Arquitectura del Proyecto
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/1-col-portfolio/).
+La estructura general del sitio web es la siguiente:
 
-## Creator
+Programacion1_u3_apache/
+├── index.html # Página principal del sitio
+├── estilos.css # Hojas de estilo (CSS)
+├── scripts/ # Scripts o lógica adicional (si aplica)
+│ └── script.js
+├── img/ # Carpeta de imágenes
+│ └── logo.png
+├── php/ # Archivos PHP del proyecto (formularios, lógica del servidor, etc.)
+│ └── formulario.php
+└── README.md # Archivo de documentación del proyecto
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+> 📝 La estructura puede variar según la versión actual del trabajo, pero sigue el patrón base de un sitio web alojado en Apache.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+---
 
-## Copyright and License
+## 🚀 Visualización en GitHub Pages
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/gh-pages/LICENSE) license.
+Podés ver la web publicada directamente desde GitHub Pages en el siguiente enlace:
+
+🔗 **[Ver sitio en línea](https://joelgiannini.github.io/Programacion1_u3_apache/)**
+
+---
+
+## 💡 Tecnologías Utilizadas
+
+- **HTML5** — estructura del sitio  
+- **CSS3** — diseño y estilos  
+- **PHP** — lógica básica del lado del servidor  
+- **Apache HTTP Server** — entorno de ejecución local  
+- **Git y GitHub** — control de versiones y despliegue
+
+---
+
+## 👨‍💻 Autor
+
+**Matías Joel Giannini**  
+📘 Estudiante de la **Tecnicatura en Software Libre (UNL)**  
+📍 Argentina  
+
+GitHub: [@joelgiannini](https://github.com/joelgiannini)
+
+---
+
+## 📄 Licencia
+
+Este proyecto es de carácter educativo y puede ser reutilizado con fines académicos citando la fuente original.
+
