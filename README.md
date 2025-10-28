@@ -10,7 +10,7 @@ El proyecto se publica también en **GitHub Pages** como versión visual para se
 ## 🏗️ Arquitectura del Proyecto
 
 La estructura general del sitio web es la siguiente:
-
+```shell
 Programacion1_u3_apache/
 ├── index.html # Página principal del sitio
 ├── estilos.css # Hojas de estilo (CSS)
@@ -21,6 +21,7 @@ Programacion1_u3_apache/
 ├── php/ # Archivos PHP del proyecto (formularios, lógica del servidor, etc.)
 │   └── formulario.php
 └── README.md # Archivo de documentación del proyecto
+```
 
 > 📝 La estructura puede variar según la versión actual del trabajo, pero sigue el patrón base de un sitio web alojado en Apache.
 
