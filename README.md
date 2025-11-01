@@ -27,14 +27,6 @@ Programacion1_u3_apache/
 
 ---
 
-## 🚀 Visualización en GitHub Pages
-
-Podés ver la web publicada directamente desde GitHub Pages en el siguiente enlace:
-
-🔗 **[Ver sitio en línea](https://joelgiannini.github.io/Programacion1_u3_apache/)**
-
----
-
 ## 💡 Tecnologías Utilizadas
 
 - **HTML5** — estructura del sitio  
