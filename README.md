@@ -12,15 +12,33 @@ El proyecto se publica también en **GitHub Pages** como versión visual para se
 La estructura general del sitio web es la siguiente:
 ```shell
 Programacion1_u3_apache/
-├── index.html # Página principal del sitio
-├── estilos.css # Hojas de estilo (CSS)
-├── scripts/ # Scripts o lógica adicional (si aplica)
-│   └── script.js
-├── img/ # Carpeta de imágenes
-│   └── logo.png
-├── php/ # Archivos PHP del proyecto (formularios, lógica del servidor, etc.)
-│   └── formulario.php
-└── README.md # Archivo de documentación del proyecto
+├── config.php
+├── css
+│   ├── 1-col-portfolio.css
+│   ├── bootstrap.css
+│   └── bootstrap.min.css
+├── disciplina_basquet.html
+├── disciplina_futbol.html
+├── fonts
+│   ├── glyphicons-halflings-regular.eot
+│   ├── glyphicons-halflings-regular.svg
+│   ├── glyphicons-halflings-regular.ttf
+│   ├── glyphicons-halflings-regular.woff
+│   └── glyphicons-halflings-regular.woff2
+├── funciones.php
+├── images
+│   ├── Se-lo-llevo-a-lo-Boca-Basquet.jpg
+│   └── slider-boca.webp
+├── index.html
+├── index.html_bkp
+├── index.php
+├── js
+│   ├── bootstrap.js
+│   ├── bootstrap.min.js
+│   └── jquery.js
+├── LICENSE
+├── README.md
+└── variables.php
 ```
 
 > 📝 La estructura puede variar según la versión actual del trabajo, pero sigue el patrón base de un sitio web alojado en Apache.
